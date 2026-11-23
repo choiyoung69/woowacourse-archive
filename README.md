@@ -4,7 +4,20 @@
 
 [GitHub](https://github.com/choiyoung69) · [전체 미션 PR](https://github.com/pulls?q=is%3Apr+author%3Achoiyoung69+org%3Awoowacourse)
 
-## 레벨 1
+[레벨 1](#level-1) · [레벨 2](#level-2) · [레벨 3](#level-3) · [레벨 4](#level-4)
+
+| 레벨 | 학습 영역 | 주요 기록 |
+| :--- | :--- | :--- |
+| 레벨 1 | Java와 객체지향 | 블랙잭 · 장기 |
+| 레벨 2 | Spring과 웹 애플리케이션 | 방탈출 예약 서비스 |
+| 레벨 3 | 팀 프로젝트 | DAYNOMY |
+| 레벨 4 | 프레임워크 구현 · 서비스 고도화 | HTTP · MVC · JDBC · DAYNOMY |
+
+---
+
+<a id="level-1"></a>
+
+## 1️⃣ 레벨 1 · Java와 객체지향
 
 | 미션 | Repository | 사이클 1 PR | 사이클 2 PR |
 | :--- | :---: | :---: | :---: |
@@ -18,7 +31,11 @@
 | Today I Learn 페이지 | [코드](https://github.com/choiyoung69/web-today-i-learn) | [🔗](https://github.com/woowacourse/web-today-i-learn/pull/110) |
 | Gemini 웹앱 출시 | [코드](https://github.com/choiyoung69/gemini-canvas-mission) | [🔗](https://github.com/woowacourse/gemini-canvas-mission/pull/124) |
 
-## 레벨 2
+---
+
+<a id="level-2"></a>
+
+## 2️⃣ 레벨 2 · Spring과 웹 애플리케이션
 
 | 미션 | Repository | 사이클 1 PR | 사이클 2 PR |
 | :--- | :---: | :---: | :---: |
@@ -35,7 +52,11 @@
 
 <sub>외부 API 연동 PR은 실제 제출된 spring-roomescape-waiting 저장소로 연결했습니다. 예약 관리의 단일 제출 PR은 첫 번째 열에 표시했습니다.</sub>
 
-## 레벨 3 · 팀 프로젝트
+---
+
+<a id="level-3"></a>
+
+## 3️⃣ 레벨 3 · 팀 프로젝트
 
 | 프로젝트 | Repository | 기타 |
 | :--- | :---: | :---: |
@@ -43,7 +64,13 @@
 | DAYNOMY 소개 | [코드](https://github.com/choiyoung69/daynomy-showcase) | 소개 페이지 |
 | 투자 서비스 프로토타입 | [코드](https://github.com/choiyoung69/woowa-prototype-investment) | 프로토타입 |
 
-## 프레임워크 구현 미션
+---
+
+<a id="level-4"></a>
+
+## 4️⃣ 레벨 4 · 프레임워크 구현과 서비스 고도화
+
+### 프레임워크 구현
 
 | 미션 | Repository | 1단계 PR | 2단계 PR | 3단계 PR | 4단계 PR |
 | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -51,13 +78,25 @@
 | MVC 프레임워크 | [코드](https://github.com/choiyoung69/java-mvc) | [🔗](https://github.com/woowacourse/java-mvc/pull/1275) | [🔗](https://github.com/woowacourse/java-mvc/pull/1330) | [🔗](https://github.com/woowacourse/java-mvc/pull/1340) | — |
 | JDBC 라이브러리 | [코드](https://github.com/choiyoung69/java-jdbc) | [🔗](https://github.com/woowacourse/java-jdbc/pull/1527) | [🔗](https://github.com/woowacourse/java-jdbc/pull/1581) | [🔗](https://github.com/woowacourse/java-jdbc/pull/1583) | [🔗](https://github.com/woowacourse/java-jdbc/pull/1584) |
 
-## 글쓰기
+---
+
+### 서비스 고도화
+
+| 프로젝트 | 기록 |
+| :--- | :--- |
+| DAYNOMY | [팀 저장소](https://github.com/woowacourse-teams/2026-DAYNOMY) · [레벨4 프로젝트](https://techcourse-lms-plus-web.woowahan.com/missions/44) |
+
+---
+
+## 공통 활동 · 글쓰기
 
 | 활동 | Repository | PR |
 | :--- | :---: | :---: |
 | 테크니컬 라이팅 | [코드](https://github.com/choiyoung69/woowa-writing) | [🔗](https://github.com/woowacourse/woowa-writing/pull/1111) |
 
-## 프리코스
+---
+
+## 프리코스 · 본과정 이전
 
 | 미션 | Repository |
 | :--- | :---: |
