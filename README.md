@@ -80,22 +80,6 @@
 
 ---
 
-### 서비스 고도화
-
-| 프로젝트 | 기록 |
-| :--- | :--- |
-| DAYNOMY | [팀 저장소](https://github.com/woowacourse-teams/2026-DAYNOMY) · [레벨4 프로젝트](https://techcourse-lms-plus-web.woowahan.com/missions/44) |
-
----
-
-## 공통 활동 · 글쓰기
-
-| 활동 | Repository | PR |
-| :--- | :---: | :---: |
-| 테크니컬 라이팅 | [코드](https://github.com/choiyoung69/woowa-writing) | [🔗](https://github.com/woowacourse/woowa-writing/pull/1111) |
-
----
-
 ## 프리코스 · 본과정 이전
 
 | 미션 | Repository |
